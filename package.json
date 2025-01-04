@@ -1,0 +1,14 @@
+{
+  "name": "playwright-design-patterns-2019019-fork",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedIn Learning course **\"Playwright Design Patterns\"** The full course is available from [LinkedIn Learning][lil-course-url].",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5"
+  }
+}
