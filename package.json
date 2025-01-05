@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This is the repository for the LinkedIn Learning course **\"Playwright Design Patterns\"** The full course is available from [LinkedIn Learning][lil-course-url].",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "cucumber-js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
